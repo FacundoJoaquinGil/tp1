@@ -10,8 +10,8 @@ const Header = () => {
                   <nav className="navbar">
                   <Link to="/components/Maincontacto  " className='boton_contacto'>Contacto</Link>
                   <Link to="/" className='boton_contacto'>volver a inicio</Link>
+                  <Link to="/components/Mainabout" className='boton_contacto'>Sobre Mi</Link>
                   </nav>
-
               </div>
 
     </div>
